@@ -1,6 +1,4 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi, I'm Checca</h1>
-<h3 align="center">Computer Scientist</h3>
+<img src="github-header-image.png" width="100%" />
 <li>💻 I’m currently learning: <strong>Bachelor’s Degree in Computer Science | University of Naples Parthenope</strong></li>
 
 
