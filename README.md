@@ -14,4 +14,4 @@ I'm a 21-year-old developer based in Naples.
 
 ## 📫 Contact
 
- For a quick response, DM me on [LinkedIn](www.linkedin.com/in/francesca-formisano-056460263). 
+ For a quick response, DM me on [LinkedIn](www.linkedin.com/in/francesca-formisano-056460263) . 
