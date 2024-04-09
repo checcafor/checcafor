@@ -2,7 +2,7 @@
 
 I'm a 21-year-old developer based in Naples. 
 
-- Check out my [Instagram](https://www.instagram.com/checcaformisano/) to learn more about me.
+- Check out my [LinkedIn](https://www.linkedin.com/in/francesca-formisano-056460263/) to learn more about me.
  
 ## 📦 Toolbox
 
@@ -14,4 +14,4 @@ I'm a 21-year-old developer based in Naples.
 
 ## 📫 Contact
 
- For a quick response, DM me on [LinkedIn](www.linkedin.com/in/francesca-formisano-056460263/) . 
+ For a quick response, DM me on [Instagram](https://www.instagram.com/checcaformisano/). 
