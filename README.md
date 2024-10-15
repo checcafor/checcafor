@@ -1,6 +1,6 @@
 ### Hey, I'm Checca 👋🏽  
 
-I'm a 21-year-old developer based in Naples. 
+I'm a 22-year-old developer based in Naples. 
 
 - Check out my [LinkedIn](https://www.linkedin.com/in/francesca-formisano-056460263/) to learn more about me.
  
