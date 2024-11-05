@@ -6,7 +6,7 @@ I'm a 22-year-old developer based in Naples.
  
 ## 📦 Toolbox
 
-**Development:** `C` `C++` `Java` `Swift` `HTML` `CSS` `Bootstrap`
+**Development:** `C` `C++` `C#` `Java` `Swift` `HTML` `CSS` `Javascript` `Bootstrap`
  
 **Version Control:** `Github`
 
