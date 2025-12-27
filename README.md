@@ -7,10 +7,11 @@
   
   <p align="center">
     <a href="https://www.linkedin.com/in/francesca-formisano-056460263" target="_blank">
-      <img src="https://cdn.simpleicons.org/linkedin/white" alt="LinkedIn" height="22" width="22" />
+      <img src="https://img.icons8.com/ios-filled/50/24D627/linkedin.png" alt="LinkedIn" height="25" width="25" />
     </a>
-    &nbsp; &nbsp; <a href="mailto:ceskaformisano@gmail.com">
-      <img src="https://cdn.simpleicons.org/gmail/white" alt="Email" height="22" width="22" />
+    &nbsp; &nbsp; 
+    <a href="mailto:ceskaformisano@gmail.com">
+      <img src="https://img.icons8.com/ios-filled/50/24D627/mail.png" alt="Email" height="25" width="25" />
     </a>
   </p>
 </div>
