@@ -34,8 +34,8 @@ Passionate about securing digital infrastructures, cryptography, and automating 
 
 ### 💻 Tech Stack & Tools
 
-`ceska@macbook:~$ cat stack_info.yaml`
 
+`ceska@macbook:~$ cat stack_info.yaml`
 ```yaml
 Languages:       [ Python, C, C#, Java ]
 Scripting:       [ Bash, PowerShell ]
@@ -43,9 +43,3 @@ Database:        [ MySQL, Oracle SQL ]
 Operating_Sys:   [ macOS, Ubuntu, Windows ]
 Dev_Tools:       [ Git, VS Code ]
 ```
-
-<div align="center"> <img src="https://www.google.com/url?sa=E&source=gmail&q=https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-
-
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DIL-TUO-USERNAME%26color%3D24D627%26style%3Dflat-square%26label%3DPROFILE%2BVIEWS" alt="Profile Views" /> </div>
