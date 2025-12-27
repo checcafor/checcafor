@@ -24,7 +24,7 @@
 <h2 align="center">👩‍💻 About Me</h2>
 
 <p align="center">
-I am a **Computer Scientist** (BSc) currently pursuing my **Master's Degree (MSc) in Digital Security**.
+I am a <b>Computer Scientist</b> (BSc) currently pursuing my <b>Master's Degree (MSc) in Digital Security</b>.
 Passionate about securing digital infrastructures, cryptography, and automating workflows. My goal is to bridge the gap between robust software development and offensive/defensive security operations.
 </p>
 
