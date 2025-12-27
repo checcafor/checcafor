@@ -7,16 +7,18 @@
   
   <p align="center">
     <a href="https://www.linkedin.com/in/francesca-formisano-056460263" target="_blank">
-      <img src="https://img.icons8.com/ios-filled/50/24D627/linkedin.png" alt="LinkedIn" height="25" width="25" />
+      <img src="https://img.icons8.com/ios-filled/50/24D627/linkedin.png" alt="LinkedIn" height="27" width="27" />
     </a>
     &nbsp; &nbsp; 
     <a href="mailto:ceskaformisano@gmail.com">
-      <img src="https://img.icons8.com/ios-filled/50/24D627/mail.png" alt="Email" height="25" width="25" />
+      <img src="https://img.icons8.com/ios-filled/50/24D627/mail.png" alt="Email" height="27" width="27" />
     </a>
   </p>
 </div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ### 👩‍💻 About Me
 
@@ -28,11 +30,22 @@ Passionate about securing digital infrastructures, cryptography, and automating 
 - 🌱 **Learning:** Cryptography & Network Defense.
 - ⚡ **Fun fact:** I write scripts to automate everything I find boring!
 
---- 
+<br/>
+
 ### 💻 Tech Stack & Tools
 
+`ceska@macbook:~$ cat stack_info.yaml`
+
 ```yaml
-Languages:       [ Python, C, C#, Java, Bash ]
-Operating_Sys:   [ macOS , Ubuntu, Windows ]
+Languages:       [ Python, C, C#, Java ]
+Scripting:       [ Bash, PowerShell ]
+Database:        [ MySQL, Oracle SQL ]
+Operating_Sys:   [ macOS, Ubuntu, Windows ]
 Dev_Tools:       [ Git, VS Code ]
 ```
+
+<div align="center"> <img src="https://www.google.com/url?sa=E&source=gmail&q=https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+
+
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DIL-TUO-USERNAME%26color%3D24D627%26style%3Dflat-square%26label%3DPROFILE%2BVIEWS" alt="Profile Views" /> </div>
