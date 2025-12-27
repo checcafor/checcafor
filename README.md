@@ -62,41 +62,37 @@ Passionate about securing digital infrastructures, cryptography, and automating 
 
 <h2 align="center">💻 Tech Stack & Tools</h2>
 
-<div align="center">
-  <p>
-    <code>ceska@macbook:~$ cat stack_info.yaml</code>
-  </p>
+```json
+ceska@macbook:~/security-lab$ whoami --skills --format=json
 
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-    <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-    <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle SQL" />
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" />
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  </p>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-<div align="center">
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=checcafor&color=24D627&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
+{
+  "user": "ceska",
+  "role": "cyber_security_student",
+  "system": "macOS",
+  "arsenal": {
+    "languages": [
+      "Python",
+      "C / C#",
+      "Java"
+    ],
+    "scripting": [
+      "Bash",
+      "PowerShell"
+    ],
+    "databases": [
+      "MySQL",
+      "Oracle SQL"
+    ],
+    "operating_systems": [
+      "macOS",
+      "Ubuntu",
+      "Windows"
+    ],
+    "dev_tools": [
+      "Git",
+      "VS Code"
+    ]
+  },
+  "status": "ready_to_code"
+}
+```
